@@ -9,6 +9,6 @@
 <body>
 ただいまの時刻は、
 <%= new java.util.Date() %>
-です。
+です。a
 </body>
 </html>
